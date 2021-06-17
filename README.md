@@ -1,4 +1,4 @@
-# COVID-19-FAQ
+# Covid19QUERY
 Answering COVID19 queries from reliable resources using Natural Language Processing.
 
 # Sample Test Case
